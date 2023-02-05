@@ -1,0 +1,16 @@
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\DataAccess\bin\Debug\net6.0\BusinessObjects.dll
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\DataAccess\bin\Debug\net6.0\BusinessObjects.pdb
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\DataAccess\bin\Debug\net6.0\appsettings.json

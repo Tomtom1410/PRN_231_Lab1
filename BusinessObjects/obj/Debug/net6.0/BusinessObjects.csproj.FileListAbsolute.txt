@@ -1,0 +1,15 @@
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\BusinessObjects\bin\Debug\net6.0\BusinessObjects.deps.json
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\BusinessObjects\bin\Debug\net6.0\BusinessObjects.runtimeconfig.json
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\BusinessObjects\bin\Debug\net6.0\BusinessObjects.dll
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\BusinessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.AssemblyReference.cache
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\BusinessObjects\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\BusinessObjects\obj\Debug\net6.0\BusinessObjects.dll
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\BusinessObjects\obj\Debug\net6.0\refint\BusinessObjects.dll
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\BusinessObjects\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll
+E:\Learning\FPTU\2023\Spring23\PRN231\Lab_1_ProductManagement\BusinessObjects\bin\Debug\net6.0\appsettings.json
